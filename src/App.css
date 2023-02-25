@@ -1,0 +1,46 @@
+body {
+  background-color: lightgray;
+}
+
+.iconoPagina a img {
+  width: 100px;
+  height: 100px;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: gray;
+  padding: 15px;
+}
+
+.secciones {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.itemSecciones {
+  margin-right: 25px;
+}
+
+.navLink {
+  font-size: 30px;
+  color: black;
+  text-decoration: none;
+}
+
+.carrito img {
+  width: 50px;
+  height: 50px;
+}
+
+.cantidadCarrito{
+  font-size: 30px;
+}
+
+.contenedorLista p {
+  font-size: 20px;
+}
