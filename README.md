@@ -15,9 +15,9 @@ Componentes:
 ## Se debe entregar.
 
 ### Rutas a configurar
-* ‘/’ navega a <ItemListContainer />
-* ‘/category/:id’  <ItemListContainer />
-* ‘/item/:id’ navega a <ItemDetailContainer />
+* ‘/’ navega al componente ItemListContainer
+* ‘/category/:id’ al componente ItemListContainer
+* ‘/item/:id’ navega al componente ItemDetailContainer
 
 ### Links a configurar
 * Clickear en el brand debe navegar a ‘/’
