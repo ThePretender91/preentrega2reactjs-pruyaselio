@@ -4,7 +4,7 @@
         "nombre": "Celular Samsung Galaxy A13 128gb + 4gb Ram Black SM-A135MZKKARO",
         "categoria": "Celulares",
         "descripcion": "- Memoria RAM (GB): 4 - Memoria ROM (GB): 128 - Tamaño de pantalla: 6.4 pulgadas - Resolucion: 1080x2408 (FHD+) - Cámara Trasera - Resolución: 50.0 MP + 5.0 MP + 2.0 MP + 2.0 MP - Cámara Frontal - Resolution: 8 MP - Color: Negro - Bateria: 5000 mAh",
-        "stock": 10,
+        "stock": 30,
         "precio": 70999,
         "imagen":"https://i.imgur.com/L1BXjwH.jpg"
     },
@@ -24,7 +24,7 @@
         "nombre": "Smart TV Kanji 60'' LED QHD 4K 9809B",
         "categoria": "Televisores",
         "descripcion": "- Marca: Kanji - Modelo: 9809B - Tipo de pantalla: DLED - Tamaño de la pantalla: 60'' - Resolución: 4K (3840x2160) - Relación de aspecto: 16:9 - Brillo: 280 cd/m² - Es smart: Sí - Con Wi-Fi: Sí - Con ethernet: Sí - Con VGA: Sí - Con youtube: Sí - Con netflix: Sí - Con apagado automático: Sí - Con USB: Sí - Con HDMI: Sí - Cantidad de puertos HDMI: 3 - Cantidad de puertos USB: 2 - Cantidad de parlantes: 2 - Potencia máxima de los parlantes: 8 W",
-        "stock": 30,
+        "stock": 15,
         "precio": 128999,
         "imagen":"https://i.imgur.com/tEfjGOu.jpg"
     },
@@ -44,7 +44,7 @@
         "nombre": "Notebook Lenovo 8gb 512gb Intel Core I7 14'' Full Hd Windows11",
         "categoria": "Notebooks",
         "descripcion": "Marca: Lenovo - Modelo: IdeaPad Slim 7 - Pantalla 14'' Full HD (1920x1080) - Intel Core i7-1165G7 11th Gen - Memoria RAM 8GB - Almacenamiento 512GB SSD - Graficos Intel Iris Xe Graphics 100% sRGB Color Gamut - Windows 11 Home Hasta 15 horas de duración de la batería",
-        "stock": 50,
+        "stock": 15,
         "precio": 389999,
         "imagen":"https://i.imgur.com/yvjIr0al.jpg"
     },
@@ -54,7 +54,7 @@
         "nombre": "Televisor Smart Tv Philips 6600 Series Led 4k 50 4k Hdmi",
         "categoria": "Televisores",
         "descripcion": "- Pantalla LED 4K (3840x2160) 16:9 - Android TV 10 - WiFi - Bluetooth - 4 HDMI - 2 USB - Salida de audio digital (óptica) - Salida de auriculares - Entrada I/D de audio - Sonido 20W RMS - Asistente de voz - Medidas: 1113x647,3x87,2mm - Peso: 11,3kg - Medidas con soporte: 1113x678x248mm - Peso con soporte: 11,5kg - Accesorios incluídos: Control remoto, 2 pilas AAA, Cable de alimentación, Guía de inicio rápida, Folleto legal y de seguridad, Soporte para mesa - Color Negro mate - Modelo 50PUD7406/77 - Garantia fabricante 12 meses - Origen Argentina",
-        "stock": 60,
+        "stock": 20,
         "precio": 189999,
         "imagen":"https://i.imgur.com/8L2hFxV.jpg"
     },
@@ -64,7 +64,7 @@
         "nombre": "Celular Samsung Galaxy Z Flip4 5G 256 GB - BORA PURPLE SM-F721BLVKARO",
         "categoria": "Celulares",
         "descripcion": "- Memoria RAM (GB): 8 - Memoria ROM (GB): 256 - Tamaño de pantalla: 6.7 pulgadas - Resolucion: 2640x1080 - Cámara Trasera - Resolución: 12 MP - Cámara Frontal - Color: Purpura - Bateria: 3700 mAh",
-        "stock": 70,
+        "stock": 30,
         "precio": 304999,
         "imagen":"https://i.imgur.com/Uko1GRh.jpg"
     },
@@ -74,7 +74,7 @@
         "nombre": "Notebook Dell Gamer 8gb 256gb Core I5 Nvidia Gtx 1650ti + 4gb",
         "categoria": "Notebooks",
         "descripcion": "Pantalla: LED de 15.6'' FHD 1920 x 1080 - Procesador: Intel Core i5-10500H 2.4 GHz - Memoria RAM: 8GB DDR4 - Almacenamiento: 256GB SSD M.2 - Gráficos: NVIDIA GeForce GTX 1650 Ti 4GB GDDR6 - Windows 10 Home",
-        "stock": 80,
+        "stock": 10,
         "precio": 449999,
         "imagen":"https://i.imgur.com/8f3Jgy7.jpg"
     },
@@ -84,7 +84,7 @@
         "nombre": "TV LG 65'' LED 4K UHD SMART OLED65A1",
         "categoria": "Televisores",
         "descripcion": "Marca: LG - Smart: Si - Tecnologia OLED - Tamaño Pantalla 65'' (3840x2160) 4K - Frecuencia de Refresco 60 Hz - Bluetooth Si - Wifi Si - LAN Si - HDMI 3 - USB 2 - Audio y Video (A/V) No - Salida Audio Óptico Digital Si - TDA Si - VGA No - NFC No - Netflix Si - Youtube Si - Parlantes 2 X 10W - Potencia de Parlante 20 W - Medidas VESA 300 X 200 MM - Ancho 144.9 CM - Alto 83 CM - Profundidad 4.6 CM - Ancho (Con Base) 144.9 CM - Alto (Con Base) 89.1 CM - Profundidad (Con Base) 27.2 CM - Peso 24KG",
-        "stock": 60,
+        "stock": 20,
         "precio": 723529,
         "imagen":"https://i.imgur.com/Kxw4GLW.jpg"
     }
