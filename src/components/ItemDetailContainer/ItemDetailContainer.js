@@ -26,14 +26,14 @@ const ItemDetailContainer = () => {
     {productos.length === 0 ? (
       <p>Cargando Detalles de Producto, por favor espere...</p>
     ) : (
-      <div>
+      <div className='contenedorGeneralDetalles'>
         {productos.filter((item) => item.id === parseInt(id)).map((item) => (
-        <div className='contenedorDetallesProducto'>
+        <div className='contenedorDetallesProducto' key={item.id}>
           <div><img src={item.imagen} alt={item.nombre} /></div>
           <div>
             <p>Nombre: {item.nombre}</p>
             <p>Detalles: {item.descripcion}</p>
-            <p>Precio: {item.precio}</p>
+            <p>Precio: {item.precio.toLocaleString("es-AR")}</p>
             <ItemCount stock={item.stock}/>
             <div className='contenedorBotonDetalles'><button>Agregar al Carrito</button></div>
           </div>
