@@ -1,32 +1,28 @@
 import React from 'react';
 import CartWidget from '../CartWidget/CartWidget';
-import NavLink from '../NavLink/NavLink';
-import ItemListContainer from '../ItemListContainer/ItemListContainer';
+
+import { Link, NavLink } from 'react-router-dom';
 
 const Navbar = () => {
   return (
     <>
     <nav className="navbar">
       <div className='iconoPagina'>
-        <a href="#"> <img src="iconotienda.jpg" alt="TECNO-STORE" /></a>
+        <Link to="/"> <img src="https://i.imgur.com/Aw4yrQ4.jpg" alt="TECNOSTORE" /></Link>
       </div>
       <ul className="secciones">
         <li className="itemSecciones">
-          <NavLink linkName="Celulares" linkPage="#" />
+          <NavLink to="/Category/Celulares" className="navLink"> Celulares </NavLink>
         </li>
         <li className="itemSecciones">
-          <NavLink linkName="Notebooks" linkPage="#" />
+          <NavLink to="/Category/Notebooks" className="navLink"> Notebooks </NavLink>
         </li>
         <li className="itemSecciones">
-          <NavLink linkName="Accesorios" linkPage="#" />
-        </li>
-        <li className="itemSecciones">
-          <NavLink linkName="Contacto" linkPage="#" />
+          <NavLink to="/Category/Accesorios" className="navLink"> Accesorios </NavLink>
         </li>
         <CartWidget />
     </ul>        
    </nav>
-    <ItemListContainer gretting="Hola Bienvenido a mi Primer Pre Entrega"/>
     </>
   );
 };

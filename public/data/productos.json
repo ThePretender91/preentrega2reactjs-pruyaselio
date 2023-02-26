@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "nombre": "Item 1",
+        "categoria": "Celulares",
+        "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus in ea nesciunt voluptatem accusamus doloremque? Fugiat asperiores, repellat ratione placeat ullam nemo, expedita quis modi, eum quo mollitia at consequuntur.",
+        "stock": 10,
+        "precio": 100,
+        "imagen":"https://dummyimage.com/400x400/ff0000/fff"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Item 2",
+        "categoria": "Notebooks",
+        "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus in ea nesciunt voluptatem accusamus doloremque? Fugiat asperiores, repellat ratione placeat ullam nemo, expedita quis modi, eum quo mollitia at consequuntur.",
+        "stock": 20,
+        "precio": 200,
+        "imagen":"https://dummyimage.com/400x400/0000ff/fff"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Item 3",
+        "categoria": "Accesorios",
+        "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus in ea nesciunt voluptatem accusamus doloremque? Fugiat asperiores, repellat ratione placeat ullam nemo, expedita quis modi, eum quo mollitia at consequuntur.",
+        "stock": 30,
+        "precio": 300,
+        "imagen":"https://dummyimage.com/400x400/00ffff/000"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Item 4",
+        "categoria": "Celulares",
+        "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus in ea nesciunt voluptatem accusamus doloremque? Fugiat asperiores, repellat ratione placeat ullam nemo, expedita quis modi, eum quo mollitia at consequuntur.",
+        "stock": 40,
+        "precio": 400,
+        "imagen":"https://dummyimage.com/400x400/ffff00/000"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Item 5",
+        "categoria": "Notebooks",
+        "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus in ea nesciunt voluptatem accusamus doloremque? Fugiat asperiores, repellat ratione placeat ullam nemo, expedita quis modi, eum quo mollitia at consequuntur.",
+        "stock": 50,
+        "precio": 500,
+        "imagen":"https://dummyimage.com/400x400/ff00ff/fff"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Item 6",
+        "categoria": "Accesorios",
+        "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus in ea nesciunt voluptatem accusamus doloremque? Fugiat asperiores, repellat ratione placeat ullam nemo, expedita quis modi, eum quo mollitia at consequuntur.",
+        "stock": 60,
+        "precio": 600,
+        "imagen":"https://dummyimage.com/400x400/00ff00/000"
+    }
+]

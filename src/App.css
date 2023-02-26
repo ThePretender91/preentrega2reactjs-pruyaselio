@@ -32,6 +32,12 @@ body {
   text-decoration: none;
 }
 
+.navLink.active {
+  font-size: 30px;
+  color: black;
+  text-decoration: underline;
+}
+
 .carrito img {
   width: 50px;
   height: 50px;
@@ -41,6 +47,107 @@ body {
   font-size: 30px;
 }
 
-.contenedorLista p {
-  font-size: 20px;
+.contenedorItems {
+  margin: 5px 0px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly; 
+}
+
+.cardItem {
+  background-color: white;
+  border: 1px solid darkgray;
+  padding: 5px;
+  margin: 5px;
+  text-decoration: none;
+  color: black;
+  border-radius: 10px;
+}
+
+.cardItem img {
+  width: 200px;
+  height: 200px;
+}
+
+.cardItem div {
+  text-align: center;
+  padding: 10px;
+}
+
+.cardItem p {
+  font-size:larger;
+  padding: 0;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.cardItem p:nth-last-of-type(1) {
+  color: red;
+  font-size: x-large;
+}
+
+.cardItem div:nth-last-of-type(1){
+  font-size:larger;
+  background-color: red;
+  color: white;
+  padding: 10px 40px;
+  margin: 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.contenedorDetallesProducto {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 150px;
+}
+
+.contenedorDetallesProducto div:nth-last-of-type(1){
+  padding: 5px;
+  margin: 5px;
+}
+
+.contenedorDetallesProducto div {
+  padding: 10px 20px;
+}
+
+.contenedorDetallesProducto p {
+  font-size: large;
+  font-weight: bold;
+}
+
+.contenedorDetallesProducto img {
+  width: 400px;
+  height: 400px;
+}
+
+.contenedorContador {
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center; 
+}
+
+.contenedorContador p {
+  margin: 0px 10px;
+}
+
+.botonContador:hover {
+  cursor: pointer;
+}
+
+.contenedorBotonDetalles {
+  display: flex;
+  justify-content: right;
+  margin: 10px;
+}
+
+.contenedorBotonDetalles button {
+padding: 10px 25px;
+margin: 10px 0;
 }
